@@ -1,4 +1,4 @@
-m
+# 3D Print Quality Control System
 
 This repository contains a highly customizable deep learning system for 3D print quality control. The system uses a dual-backbone neural network to compare print images against reference images and classify them as good or bad prints.
 
