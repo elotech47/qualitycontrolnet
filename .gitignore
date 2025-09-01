@@ -1,5 +1,4 @@
 _old_code
 __pycache__
-data/
 events.out.tfevents*
 *.log
