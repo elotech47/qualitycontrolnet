@@ -1,0 +1,13 @@
+albumentations==1.0.3
+matplotlib==3.10.6
+numpy==2.3.2
+opencv_python==4.11.0.86
+opencv_python_headless==4.11.0.86
+pandas==2.3.2
+Pillow==11.3.0
+scikit_learn==1.7.1
+seaborn==0.13.2
+streamlit==1.45.0
+torch==2.7.0
+torchvision==0.22.0
+tqdm==4.67.1
